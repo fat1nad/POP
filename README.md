@@ -21,3 +21,8 @@ Menu background music: 'Cash Machine' by Anno Domini Beats from Youtube Audio Li
 [Level atmospheric sound: 'Ocean game movement water air tank bubbles huge long' from Mixkit](https://mixkit.co/free-sound-effects/bubbles/)
 
 [Seaweed models by Riley](https://rkuhlf-assets.itch.io/aquatic-animal-models)
+
+## Software Versions
+
+	Unity 2019.4.19f1 (LTS)
+	Visual Studio 2019
