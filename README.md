@@ -10,17 +10,17 @@ Please run Build\POP!.exe
 
 [Liquid font by Vladimir Nikolic](https://fontsme.com/liquid.font)
 
+[Seaweed models by Riley](https://rkuhlf-assets.itch.io/aquatic-animal-models)
+
 Menu background music: 'Cash Machine' by Anno Domini Beats from Youtube Audio Library
-
-[New high score sound from Epidemic Sound](https://www.epidemicsound.com/track/vE0vraRIeY/)
-
-[Pop sound: 'Hard pop click' from Mixkit](https://mixkit.co/free-sound-effects/pop/)
-
-[Bubble eating sound: 'Liquid bubble' from Mixkit](https://mixkit.co/free-sound-effects/bubbles/)
 
 [Level atmospheric sound: 'Ocean game movement water air tank bubbles huge long' from Mixkit](https://mixkit.co/free-sound-effects/bubbles/)
 
-[Seaweed models by Riley](https://rkuhlf-assets.itch.io/aquatic-animal-models)
+[Bubble eating sound: 'Liquid bubble' from Mixkit](https://mixkit.co/free-sound-effects/bubbles/)
+
+[Pop sound: 'Hard pop click' from Mixkit](https://mixkit.co/free-sound-effects/pop/)
+
+[New high score sound from Epidemic Sound](https://www.epidemicsound.com/track/vE0vraRIeY/)
 
 ## Software Versions
 
