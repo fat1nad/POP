@@ -22,6 +22,8 @@ Menu background music: 'Cash Machine' by Anno Domini Beats from Youtube Audio Li
 
 [New high score sound from Epidemic Sound](https://www.epidemicsound.com/track/vE0vraRIeY/)
 
+The rest is self-created/designed
+
 ## Software Versions
 
 	Unity 2019.4.19f1 (LTS)
