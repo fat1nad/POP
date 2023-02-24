@@ -4,7 +4,7 @@ A 3D game about the journey of a bubble as it feeds on eatable bubbles and avoid
 
 ## How To Run
 
-Please run Build\POP!.exe
+Please run [Build\POP!.exe](\Build\POP!.exe) on PC.
 
 ## Attributions
 
